@@ -1,0 +1,46 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spider",
+            "Foto": "https:\/\/www.mclarensaopaulo.com.br\/pub\/galeria\/-noticia-n_1_211101_1828.jpg"
+        },
+        {
+            "id": "3",
+            "Marca": "Lamborghini",
+            "Detalhes": "Aventador",
+            "Foto": "https:\/\/motorshow.com.br\/wp-content\/uploads\/sites\/2\/2021\/07\/lamborghini-aventador-lp-780-4-ultimae-44.jpg?x71212"
+        },
+        {
+            "id": "4",
+            "Marca": "BMW",
+            "Detalhes": "M4",
+            "Foto": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjrCYsIl1I4Tt7how2BVasQ_8lxHHe_-VXmK2kORU4ARENQDqgzu6hDzne-lxwMp0fLzwiXjtnpb2cW2Gkdz_I0HcobF-OoPgI-x3pEkbpJQwm98uhr77zQ1_dHPRHlIJknThCATZ9xB7Y\/s1600\/BMW-M4-CS %281%29.jpg"
+        },
+        {
+            "id": "5",
+            "Marca": "NISSAN",
+            "Detalhes": "GTR",
+            "Foto": "https:\/\/car-shop.pt\/wp-content\/uploads\/2023\/08\/22-1.jpg"
+        },
+        {
+            "id": "6",
+            "Marca": "AUDI",
+            "Detalhes": "RS6",
+            "Foto": "https:\/\/res.cloudinary.com\/unix-center\/image\/upload\/c_lfill,dpr_3.0,f_auto,fl_progressive,g_center,h_409,q_auto:good,w_623\/v1715602185\/prec0qheo9c7bmrzdeuo.jpg"
+        },
+        {
+            "id": "7",
+            "Marca": "PORSHE",
+            "Detalhes": "TURBO S",
+            "Foto": "https:\/\/images-porsche.imgix.net\/-\/media\/E1B89163E7134EA9BF76E07A5BDD1452_5E681B6080A54B1A9C478536062D59CF_045-panamera-turbo-s-e-hybrid-executive-model-technical-highlights-1600x1125?w=999"
+        }
+    ]
+}
